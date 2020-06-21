@@ -8,7 +8,6 @@ class NewGame {
 	private String name;
 	private int health = 100;
 	private int coins = 100;
-	//private int damage = 30;
 	private ArrayList<String> inventory = new ArrayList<String>();
 	private ArrayList<String> woodenPlanks = new ArrayList<String>();
 	private Scanner sc = new Scanner(System.in);
